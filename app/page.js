@@ -19,7 +19,7 @@ export default async function Home() {
       icon: Rabbit,
       title: "Lightning Fast",
       description:
-        "Deal Drop extracts prices in seconds, handling JavaScript and dynamic content",
+        "Price Sense AI extracts prices in seconds, handling JavaScript and dynamic content",
     },
     {
       icon: Shield,
